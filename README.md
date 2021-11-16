@@ -11,7 +11,7 @@ and run the following containers in their own terminal instance:
 
 ### Run Redis
 1. Pull the image `docker pull redis`
-2. Start a Redis instance `docker run --rm -ti -p 6379:6379 -d redis`
+2. Start a Redis instance `docker run --rm -ti -p 6379:6379 redis`
 
 ### Run Assignment
 1) Install all dependencies `npm install`
